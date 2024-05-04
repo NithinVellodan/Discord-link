@@ -28,9 +28,9 @@ export default function Home() {
           height={100}
         /> */}
         <h1 className="text-4xl font-bold mt-6 mb-4">
-          Welcome to Earn Daily Dollar Challenge
+          "Please Click the Link Moluu ❤️❤️❤️❤️",
         </h1>
-        <p className="text-lg mb-8">Experience seamless Earning</p>
+        <p className="text-lg mb-8">Click faster</p>
         <Link href="/main">
           <Button
             // variant="solid"

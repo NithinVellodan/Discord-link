@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Earn 1000$ Free  without any effort ",
+  title: "Please Click the Link Moluu ❤️❤️❤️❤️",
   description: "Just Click the link Below and see the magic!!",
 };
 

@@ -26,6 +26,7 @@ export default function Main() {
         <div className="absolute top-0 left-0 w-full h-full py-3 px-3 flex items-center justify-center">
           <h1 className="text-3xl text-red-950 font-bold mb-2">
             Hi ........Hello Moluuuuuuuuuuuuu hi hi nhiii Big Hiiiiiiiiiiiiiiii
+            hloo
           </h1>
         </div>
       </div>

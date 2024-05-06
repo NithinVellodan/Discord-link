@@ -12,9 +12,7 @@ export default function Home() {
           width={100}
           height={100}
         /> */}
-        <h1 className="text-4xl font-bold mt-6 mb-4">
-          &quot; Please Click the Link Moluu ❤️❤️❤️❤️ &quot;
-        </h1>
+        <h1 className="text-4xl font-bold mt-6 mb-4">&quot; Hi&quot;</h1>
         <p className="text-lg mb-8">Click faster</p>
         <Link href="/main">
           <Button
